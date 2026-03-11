@@ -1,7 +1,6 @@
 import { useCallback, useRef } from "react";
 import { motion } from "framer-motion";
 import { FileUp, CheckCircle2, Database } from "lucide-react";
-// @ts-ignore
 import Papa from "papaparse";
 import { useAppStore } from "@/lib/store";
 import { toast } from "sonner";
