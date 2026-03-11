@@ -1,0 +1,4 @@
+project_id = "mtvbeethufdmqjyyuzku"
+
+[functions.analyze-data]
+verify_jwt = false
