@@ -26,7 +26,7 @@ export function Navbar() {
             <BarChart3 className="h-4 w-4 text-primary-foreground" />
           </div>
           <h1 className="text-lg font-display font-semibold tracking-tight">
-            AI Dashboard Studio
+            Data Insight
           </h1>
         </div>
       </div>
