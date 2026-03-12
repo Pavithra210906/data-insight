@@ -25,7 +25,7 @@ export function Dashboard() {
             )}
           </div>
           <h2 className="text-xl font-display font-semibold mb-2">
-            {dataset ? "Ready to analyze" : "Welcome to AI Dashboard Studio"}
+            {dataset ? "Ready to analyze" : "Welcome to Data Insight - Your Business AI Dashboard Studio"}
           </h2>
           <p className="text-sm text-muted-foreground max-w-md">
             {dataset
